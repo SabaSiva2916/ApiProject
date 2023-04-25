@@ -1,0 +1,24 @@
+19:24:49.151 [main] INFO  api.test.UserTest - ********** Creating User *************
+19:24:52.280 [main] INFO  api.test.UserTest - ********** user is created **********
+19:24:52.294 [main] INFO  api.test.UserTest - ********** Reading User Info *************
+19:24:53.988 [main] INFO  api.test.UserTest - **********  User Info Displayed *************
+19:24:54.002 [main] INFO  api.test.UserTest - ********** Updating User Info *************
+19:24:55.954 [main] INFO  api.test.UserTest - ********** Updating User Info *************
+19:24:55.954 [main] INFO  api.test.UserTest - ********** Deleting User Info *************
+19:24:57.469 [main] INFO  api.test.UserTest - ********** Deleting User Info *************
+00:10:23.944 [main] INFO  api.test.UserTest - ********** Creating User *************
+00:10:25.202 [main] INFO  api.test.UserTest - ********** user is created **********
+00:10:31.350 [main] INFO  api.test.UserTest - ********** Reading User Info *************
+00:10:32.686 [main] INFO  api.test.UserTest - **********  User Info Displayed *************
+00:10:32.686 [main] INFO  api.test.UserTest - ********** Updating User Info *************
+00:10:34.726 [main] INFO  api.test.UserTest - ********** Updating User Info *************
+00:10:34.726 [main] INFO  api.test.UserTest - ********** Deleting User Info *************
+00:10:35.965 [main] INFO  api.test.UserTest - ********** Deleting User Info *************
+00:18:40.639 [main] INFO  api.test.UserTest - ********** Creating User *************
+00:18:41.864 [main] INFO  api.test.UserTest - ********** user is created **********
+00:18:46.692 [main] INFO  api.test.UserTest - ********** Reading User Info *************
+00:18:48.519 [main] INFO  api.test.UserTest - **********  User Info Displayed *************
+00:18:48.519 [main] INFO  api.test.UserTest - ********** Updating User Info *************
+00:18:49.855 [main] INFO  api.test.UserTest - ********** Updating User Info *************
+00:18:49.855 [main] INFO  api.test.UserTest - ********** Deleting User Info *************
+00:18:51.501 [main] INFO  api.test.UserTest - ********** Deleting User Info *************
